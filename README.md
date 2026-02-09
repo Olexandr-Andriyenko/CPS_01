@@ -43,3 +43,7 @@
 - `Fill milk`: Milchvorrat zurücksetzen
 - `Fill water`
 - `Take money`
+
+## Flowchart für die Anwendung
+
+<img src="img/Kaffeeautomat_flowchart.png" alt="Flowchart Kaffeeautomat" width=60%>
